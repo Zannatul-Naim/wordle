@@ -19,12 +19,12 @@ The game loads the possible words from a text file (`wordList.txt`), which conta
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/wordle-game-in-c.git
+   git clone https://github.com/your-username/wordle.git
    ```
 
 2. **Navigate to the directory:**
    ```bash
-   cd wordle-game-in-c
+   cd wordle
    ```
 
 3. **Ensure you have a `wordList.txt` file with more than 100 five-letter words in the directory.**
